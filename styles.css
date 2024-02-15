@@ -1,0 +1,287 @@
+body{
+    background-color: black;
+
+    margin: 0px;
+
+    padding: 0px;
+
+    font-size: 62.5%;
+    color: white;
+    
+}
+
+
+/* navabr  */
+
+#navbar-img-div{
+    width: 39%;
+}
+
+#nav-img{
+    width: 28%;
+}
+
+#navbar-pages{
+    width: 59%;
+}
+
+.nav-list{
+    font-size: 1rem;
+}
+
+.get-link{
+    
+}
+
+
+/* navabr  */
+
+
+
+
+/* carousel  */
+
+#carousel{
+    width: 100%;
+}
+
+/* carousel  */
+
+
+
+/* main  */
+
+/* main one */
+
+
+#SNP{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 3.4rem;
+
+}
+
+.SNP-text{
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.img-order{
+    width: 80%;
+}
+
+.wel-imgs{
+    background-color: white;
+    width: 100%;
+}
+
+/* main one  */
+
+
+
+/* main two  */
+
+.p-red{
+    font-size: 1rem;
+}
+
+.spr-heading{
+    font-size: 2rem;
+
+}
+
+.text-gray{
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 1rem;
+
+}
+
+.red-1-img{
+    width: 90%;
+}
+
+.express-div{
+    width: 100%;
+}
+.express-img{
+    width: 93%;
+}
+
+/* main two  */
+
+/* main three  */
+
+.p2-red{
+    font-size: 0.8rem;
+
+}
+
+.pack-mall{
+font-size: 1.7rem;
+}
+
+/* main three  */
+
+
+/* main  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* media queries  */
+
+
+/* 1360  */
+
+@media(max-width :1360px){
+    /* html{
+        font-size: 62%;
+    } */
+
+}
+
+/* 1360  */
+
+
+
+/* 1210  */
+
+@media(max-width :1210px){
+    /* html{
+        font-size: 60%;
+    } */
+    
+    }
+    
+    /* 1210  */
+
+
+    /* 1210  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 992  */
+@media(max-width :992px){
+    /* html{
+        font-size: 60%;
+    } */
+   
+    #navbar-img-div{
+        width: 100%;
+    }
+
+    #nav-img{
+        width: 20%;
+    }
+ 
+#navbar-pages{
+    display: none;
+}
+
+    .nav-list{
+       display:none ;
+    }
+}
+
+#hamburger{
+    position: absolute;
+    left: .8em;
+    top: .5rem;
+   
+    text-align: center;
+
+}
+
+.fa-bars{
+    font-size: 0.5rem;
+    color: red;
+}
+
+
+/* 992  */
+
+
+
+/* 768  */
+
+@media(max-width :768px){
+    /* html{
+        font-size: 57%;
+    } */
+    
+    }
+
+
+/* 768  */
+
+
+
+/* 600  */
+
+@media(max-width :600px){
+    /* html{
+        font-size: 51%;
+    } */
+    
+    }
+
+
+/* 600*/
+
+
+/* 550  */
+
+@media(max-width :550px){
+    /* html{
+        font-size: 40%;
+    } */
+    
+    }
+
+
+/* 550*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
