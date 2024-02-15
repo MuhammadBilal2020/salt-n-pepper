@@ -161,8 +161,42 @@ font-size: 1.7rem;
 .loc-round
 /* main four */
 
+/* main 5 */
+
+.burger{
+    width: 100%;
+}
+
+.burger-img{
+    width: 100%;
+}
+
+/* main 5 */
+
+
 
 /* main  */
+
+
+
+/* footer  */
+
+.foot-text{
+    font-size: 1rem ;
+    color: rgba(255, 255, 255, 0.7);
+
+}
+
+.last-ic{
+    font-size: 1rem;
+    padding: .4rem .6rem .4rem .8rem;
+}
+
+.last-w{
+    width: 100% !important;
+}
+
+/* footer  */
 
 
 
