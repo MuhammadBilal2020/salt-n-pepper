@@ -122,6 +122,46 @@ font-size: 1.7rem;
 /* main three  */
 
 
+
+/* main four */
+
+.full-soon{
+    width: 99%;
+}
+
+.opn-s{
+    font-size: 1.6rem;
+    font-weight: 400;
+}
+
+.opn-soon{
+    color: red;
+}
+
+.opn-head{
+    color: black;
+font-size: 1.7rem;
+
+}
+
+.location{
+    /* background-color: gray; */
+    font-size: 2rem;
+    color: red;
+}
+
+/* .fa-location-dot{
+    background-color: #e1e1e1;
+    
+} */
+.loc-round{
+    background-color: #dcdcdc;
+    padding: 0.1rem 0.6rem;
+}
+.loc-round
+/* main four */
+
+
 /* main  */
 
 
@@ -246,9 +286,9 @@ font-size: 1.7rem;
 /* 600  */
 
 @media(max-width :600px){
-    /* html{
-        font-size: 51%;
-    } */
+    html{
+        font-size: 60%;
+    }
     
     }
 
