@@ -1,0 +1,217 @@
+body{
+    background-color: black;
+
+    margin: 0px;
+
+    padding: 0px;
+
+    font-size: 62.5%;
+    color: white;
+    
+}
+
+.intro{
+    font-size: 2.5rem ;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.spr-heading-2{
+    font-size: 2rem;
+}
+
+
+
+
+/* RESTAURENT SEC-1 */
+
+.only-img{
+width: 35rem;
+/* display: block;
+margin: 0px auto; */
+}
+
+/* RESTAURENT SEC-1 */
+
+
+
+/* FRANCHISE IN RESTAURENT */
+
+
+
+
+
+
+/* EXPRESS FRANCHISES LOCATIONS   */
+
+.loc-cards{
+    border-radius: 5px;
+    padding: 1rem 0rem;
+    
+}
+
+.loc-img{
+    width: 320px;
+    border-radius: 5px;
+}
+
+/* EXPRESS FRANCHISES LOCATIONS   */
+
+
+/* VILLAGE FRANCHISE  */
+
+.village-img{
+    width: 580px;
+}
+
+/* VILLAGE FRANCHISE  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* media queries  */
+
+
+/* 1360  */
+
+@media(max-width :1360px){
+ 
+
+}
+
+/* 1360  */
+
+
+
+
+
+
+
+
+
+
+/* 1210  */
+
+@media(max-width :1210px){
+   
+/* RESTAURENT SEC-1 */
+
+.only-img{
+width: 28rem;
+
+}
+
+.loc-img{
+    width: 250px;
+    border-radius: 5px;
+}
+
+/* RESTAURENT SEC-1 */
+
+    }
+    
+    /* 1210  */
+
+
+
+
+
+
+/* 992  */
+@media(max-width :992px){
+   
+   .Font-1{
+font-size: .8rem;
+    }
+
+    .spr-heading-2{
+        font-size: 1.5rem;
+    }
+
+    .only-img{
+        width: 23rem;
+        
+        }
+}
+
+
+
+
+
+/* 992  */
+
+
+
+/* 768  */
+
+@media(max-width :768px){
+   
+    .only-img{
+        width: 30rem;
+        
+        }
+
+    }
+
+
+/* 768  */
+
+
+
+/* 600  */
+
+@media(max-width :600px){
+    .only-img{
+        width: 35rem;
+        
+        }
+    
+    }
+
+
+/* 600*/
+
+
+/* 550  */
+
+@media(max-width :550px){
+
+    .only-img{
+        width: 35rem;
+        
+        }
+    }
+
+
+/* 550*/
+
+
+/* About  About   About */
+
+
+
+
+
+
+
+
+
